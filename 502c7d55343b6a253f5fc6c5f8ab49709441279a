@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e76b6dd1_66e13000",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2022-06-02T21:31:41Z",
+      "side": 1,
+      "message": "LoS topic: https://review.lineageos.org/q/topic:fastbootd-getprop",
+      "revId": "502c7d55343b6a253f5fc6c5f8ab49709441279a",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
